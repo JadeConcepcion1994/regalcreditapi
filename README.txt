@@ -30,7 +30,7 @@ create a request using POST method to this url ( http://localhost:8080/add )
 Head over to the body tab, select row and in the body tab below, click on raw and JSON on the right dropdown.
 example: (id is auto increment)
 {
-	"animal" : "Dog",
+"animal" : "Dog",
     "color" : "Brown"
 }
 
