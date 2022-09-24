@@ -3,7 +3,7 @@ This Software Developer Test is solution is created by Jade Concepcion from scra
 Logical solution to achieved the desired output is 100% mine. 
 
 1. How long it took you to complete the work
- - I alloted 3hrs of logical thinking 7hrs of coding and debugging.
+ - I alloted 2hrs of logical thinking 6hrs of coding and debugging.
 
 2. What you had to research to complete the work
  - to be honest, I had to research everything on how to develop this kind of solution given the fact that I had 0 knowledge of node.js and Typescript, from installing npm packages like, typescript, nodemon, express.js, creating controllers and routers, installed packages here are results of my research and do not claim any of it. However, logical solution to achieve this output is all mine. Good thing I had a good understanding with Javascript which helps a lot.
